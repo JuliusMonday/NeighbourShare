@@ -103,8 +103,11 @@ img{
 }
   /* Media Queries for Smaller Screens */
   @media (max-width: 768px) {
+    .sign-up-main-conatainer{
+      overflow:visible;
+    }
     .sub-container {
-      padding-top: 2rem;
+      padding-top: 0;
       padding-bottom: 3rem;
       grid-template-columns: 1fr;
       gap: 0.5rem;
@@ -114,6 +117,7 @@ img{
     .image-container {
       height: 300px;
       border-radius: 5px;
+      margin: 2rem;
     }
   
     .overlay {
