@@ -111,6 +111,9 @@
 .btn-contact:hover > .nav-links{
     color: #FFFFFF;
 }
+.contact-btn:hover{
+    background-color: transparent;
+}
 .container-general {
     margin-left: auto;
     margin-right: auto;

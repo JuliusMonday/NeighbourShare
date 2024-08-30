@@ -1,4 +1,4 @@
-import logo from "../assets/NeighborShareMainlogo.png"
+import logo from "../assets/NeighborShare.png"
 import { Link } from "react-router-dom"
 import { FaArrowRight,FaTimes, FaBars } from 'react-icons/fa';
 import { useState } from "react";

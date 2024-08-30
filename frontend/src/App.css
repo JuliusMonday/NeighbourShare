@@ -33,6 +33,7 @@
 
 .btn:hover {
   background-color: #FF7C57;
+  border-radius: 10px;
 }
 
 /* Utility classes */
